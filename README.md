@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nomadicjansen
 - 👀 I’m interested in the intersection of technology, digital, data and ethics, particularly in developing countries.
-- 🌱 I’m currently learning about blockchain, digital strategy and ethics
+- 🌱 I’m currently learning about digital strategy and ethics and hope to learn more about blockchain soon
 - 💞️ I’m looking to collaborate on digital ID, mobile money, and last mile mobile solutions
 - 📫 How to reach me ...
 
